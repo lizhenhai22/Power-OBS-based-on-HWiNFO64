@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="icon.ico" width="80" height="80" alt="PowerOSD Logo">
   <h1>⚡ PowerOSD</h1>
   <p>
     <b>基于 HWiNFO64 的超轻量桌面实时功率监控 OSD 小组件</b><br>
