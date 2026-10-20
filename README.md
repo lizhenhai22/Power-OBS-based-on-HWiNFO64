@@ -7,7 +7,7 @@
 
   <p>
     <a href="#-中文说明">🇨🇳 中文说明</a> •
-    <a href="#-english-documentation">🇺🇸 English Documentation</a>
+    
   </p>
 
   ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=flat-square&logo=windows)
