@@ -4,7 +4,7 @@
     <b>基于 HWiNFO64 的超轻量桌面实时功率监控 OSD 小组件</b><br>
     <i>A lightweight, zero-bloat real-time power monitor OSD widget based on HWiNFO64.</i>
   </p>
-<img width="531" height="218" alt="image" src="https://github.com/user-attachments/assets/ae41a8f9-d884-45ca-82c3-800273265ebb" />
+  <img width="405" alt="PowerOSD preview" src="assets/preview.png" />
 
   <p>
     <a href="#-中文说明"> 中文说明</a>
